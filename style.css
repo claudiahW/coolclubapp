@@ -169,3 +169,8 @@ nav ul li a {
   align-items: flex-end;
   justify-content: center;
 }
+.feature-btn .line{
+    text-align: right;
+    display: inline-block;
+    margin-right: 25px;
+}
